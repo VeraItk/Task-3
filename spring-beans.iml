@@ -19,8 +19,8 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-jcl:5.3.14" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-context:5.3.14" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-aop:5.3.14" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.14" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:5.3.14" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework:spring-beans:5.3.14" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.springframework:spring-test:5.3.14" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.scalatestplus:junit-4-12_2.13:3.2.2.0" level="project" />
     <orderEntry type="library" scope="TEST" name="Maven: org.scala-lang:scala-library:2.13.3" level="project" />
